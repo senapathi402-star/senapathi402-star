@@ -20,9 +20,9 @@ I'm a Data Analyst with 2+ years of experience in KPI reporting, data validation
 ## 📁 Projects
 
 ### 🍕 [Pizza Sales Analytics Dashboard](https://github.com/senapathi402-star/pizza-sales-dashboard)
-> SQL + Tableau
-- Analyzed 48,000+ records using SQL (joins, CTEs, window functions)
-- Validated $817,000+ in revenue and identified top-performing products
+> SQL + Tableau | [🔗 Live Dashboard](https://public.tableau.com/views/PizzaSalesAnalyticsDashboard_17766667725500/Dashboard1)
+- Engineered SQL queries (joins, CTEs, window functions) on 48,000+ records
+- Validated $817,860 in revenue and identified top-performing pizza categories
 - Built Tableau dashboard tracking 48,620 orders and peak demand trends
 
 ---
@@ -36,11 +36,43 @@ I'm a Data Analyst with 2+ years of experience in KPI reporting, data validation
 
 ---
 
-### 🐍 [Exploratory Data Analysis — Multi Domain](https://github.com/senapathi402-star/Netflix_case_study)
-> Python | Pandas | NumPy | Matplotlib | Seaborn
-- Performed EDA on Netflix, Airbnb, Fitbit, and retail datasets
-- Built visualizations to identify customer behavior and pricing trends
-- Generated actionable insights for data-driven decision making
+### 🎬 [IMDB Movies Case Study](https://github.com/senapathi402-star/IDMB_CASE_STUDY)
+> Python | Pandas | NumPy
+- Analyzed 1,465 movies across budget, revenue, popularity and ratings
+- Performed multi-table analysis joining movies and directors datasets
+- Identified top grossing films, release trends by month and day of week
+
+---
+
+### 🎬 [Netflix Case Study](https://github.com/senapathi402-star/Netflix_case_study)
+> Python | Pandas | NumPy
+- Analyzed 100 Netflix users across subscription types, genres and viewing behavior
+- Engineered 6 new features including value score, hour price, genre engagement
+- Key insight: Premium users pay 43x more per hour than Basic users
+
+---
+
+### 🏠 [Airbnb NPS Analysis](https://github.com/senapathi402-star/AIRBNB_NPS)
+> Python | NumPy
+- Computed Net Promoter Score (NPS) from 1,167 customer reviews
+- Identified 52.19% Promoters vs 28.45% Detractors → NPS of 23.74%
+- Provided actionable recommendations to improve customer retention
+
+---
+
+### 🏃 [Fitbit Activity Analysis](https://github.com/senapathi402-star/Fit_bit-analysis)
+> Python | NumPy
+- Analyzed 96 days of Fitbit fitness tracking data across sleep, steps and mood
+- Key insight: 6+ hours sleep + 3,000+ steps = Happy & Active lifestyle
+- Users walking under 2,000 steps reported sad mood 46% of days
+
+---
+
+### 📚 [Amazon Top 5 Books Analysis](https://github.com/senapathi402-star/Top_5_selling_and_rated_books)
+> Python | Pandas
+- Analyzed 400 Amazon India bestseller books for top selling and top rated titles
+- Identified Shrimad Bhagwat Geeta as highest rated (4.8) and Atomic Habits in both top lists
+- Applied drop_duplicates() to extract unique rankings from raw data
 
 ---
 
@@ -51,6 +83,7 @@ WNS Global Services | Mar 2024 – Present
 - Validated 1,100+ daily records with 99% accuracy
 - Built KPI dashboards in Excel to monitor performance trends
 - Automated MIS reporting workflows using Pivot Tables and VLOOKUP
+- Consolidated 4,000+ records to improve data consistency
 
 ---
 
@@ -65,6 +98,7 @@ WNS Global Services | Mar 2024 – Present
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/senapathi-krishna-sai-a54721388)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/senapathi402-star)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishna.sai.senapathi1999@gmail.com)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/senapathi.krishna.sai)
 
 ---
 
