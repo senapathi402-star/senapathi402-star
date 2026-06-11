@@ -11,13 +11,33 @@ I'm a Data Analyst with 2+ years of experience in KPI reporting, data validation
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
 ## 📁 Projects
+
+### 📊 [HR Analytics Dashboard — Power BI](https://github.com/senapathi402-star/hr-analytics-power-bi)
+> Power BI | DAX | Excel
+- Built interactive HR dashboard analyzing 1,000 employee records across 10 departments
+- Created DAX measures for Attrition Rate (20.1%), Total Employees, and Avg Salary ($1,813,251)
+- Implemented department slicer enabling one-click cross-filtering across all visuals
+- Key insight: Engineering has highest attrition (23.7%), HR has highest avg salary ($19,53,047)
+
+---
+
+### 🤖 [HR Analytics Automation — Google Sheets & Apps Script](https://github.com/senapathi402-star/hr-analytics-google-sheets)
+> Google Sheets | Google Apps Script | JavaScript
+- Built automated HR Report Generator — one click creates formatted summary sheet with key metrics
+- Implemented VLOOKUP, XLOOKUP, COUNTIF, SUMIF, IFS and QUERY functions on 1,000-row dataset
+- Created custom HR Tools menu with 3 automated scripts: Generate Status, Highlight Attrition, Generate HR Report
+- Automated classification of 1,000 employee rows using loops, conditionals and setValue()
+
+---
 
 ### 🍕 [Pizza Sales Analytics Dashboard](https://github.com/senapathi402-star/pizza-sales-dashboard)
 > SQL + Tableau | [🔗 Live Dashboard](https://public.tableau.com/views/PizzaSalesAnalyticsDashboard_17766667725500/Dashboard1)
@@ -27,7 +47,7 @@ I'm a Data Analyst with 2+ years of experience in KPI reporting, data validation
 
 ---
 
-### 📊 [HR Analytics Dashboard](https://github.com/senapathi402-star/hr-analytics-dashboard)
+### 📊 [HR Analytics Dashboard — Excel](https://github.com/senapathi402-star/hr-analytics-dashboard)
 > Microsoft Excel
 - Built HR Analytics Dashboard analyzing 1,000+ employee records across 10 departments
 - Created 8 pivot tables covering headcount, attrition, salary, KPI, gender, performance & training
@@ -90,6 +110,8 @@ WNS Global Services | Mar 2024 – Present
 ## 📜 Certifications
 
 - 🏆 Google Data Analytics Professional Certificate (2025)
+- 🏆 SQL (Basic) Certificate — HackerRank (Apr 2026)
+- 🏆 Python (Basic) Certificate — HackerRank (Apr 2026)
 
 ---
 
