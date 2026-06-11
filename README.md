@@ -1,6 +1,6 @@
 # Hi, I'm Senapathi Krishna Sai 👋
 
-### Data Analyst | SQL | Python | Tableau | Excel
+### Data Analyst | SQL | Python | Tableau | Power BI | Excel | EDA | Dashboard | KPI Reporting | 2+ Years | Google Certified
 
 I'm a Data Analyst with 2+ years of experience in KPI reporting, data validation, and automation. I love turning raw data into meaningful insights that drive business decisions.
 
