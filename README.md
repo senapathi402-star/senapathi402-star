@@ -21,6 +21,16 @@ I'm a Data Analyst with 2+ years of experience in KPI reporting, data validation
 
 ## 📁 Projects
 
+### 🔐 [Cybersecurity Breach Analytics — One Dataset, Four Tools](https://github.com/senapathi402-star/Cybersecurity-Breach-Analytics)
+> Excel | SQL | Python (planned) | Power BI (planned)
+- End-to-end analysis of a 904,501-row synthetic cybersecurity breach dataset (2010–2024, 30 columns), progressively rebuilt and validated across multiple tools
+- Cleaned and deduplicated 904,501 → 900,000 records in both Excel and MySQL, including catching a hidden trailing carriage-return character across an entire column via `HEX()` inspection
+- Answered 13 analytical questions in SQL using CTEs, window functions (`RANK`, `LAG`, running totals), and subquery joins
+- Caught and reconciled a cross-tool methodology discrepancy: an initial SUM-based SQL comparison of MFA/encryption cost impact didn't match Excel's validated figures — traced to SUM conflating per-incident severity with group-size effects, resolved using per-incident AVG (81% costlier without MFA, 124% costlier without encryption)
+- Key insight: Healthcare leads all industries in both breach volume and total financial loss; Critical-severity breaches take 5x longer to detect than Low-severity ones
+
+---
+
 ### 📊 [HR Analytics Dashboard — Power BI](https://github.com/senapathi402-star/hr-analytics-power-bi)
 > Power BI | DAX | Excel
 - Built interactive HR dashboard analyzing 1,000 employee records across 10 departments
