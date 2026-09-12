@@ -39,15 +39,6 @@ I'm a Data Analyst with 2+ years of experience in KPI reporting, data validation
 
 ---
 
-### 🤖 [HR Analytics Automation — Google Sheets & Apps Script](https://github.com/senapathi402-star/hr-analytics-google-sheets)
-> Google Sheets | Google Apps Script | JavaScript
-- Built automated HR Report Generator — one click creates formatted summary sheet with key metrics
-- Implemented VLOOKUP, XLOOKUP, COUNTIF, SUMIF, IFS and QUERY functions on 1,000-row dataset
-- Created custom HR Tools menu with 3 automated scripts: Generate Status, Highlight Attrition, Generate HR Report
-- Automated classification of 1,000 employee rows using loops, conditionals and setValue()
-
----
-
 ### 🍕 [Pizza Sales Analytics Dashboard](https://github.com/senapathi402-star/pizza-sales-dashboard)
 > SQL + Tableau | [🔗 Live Dashboard](https://public.tableau.com/views/PizzaSalesAnalyticsDashboard_17766667725500/Dashboard1)
 - Engineered SQL queries (joins, CTEs, window functions) on 48,000+ records
